@@ -1,0 +1,22 @@
+{
+  "name": "gpc-sudo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set NODE_ENV=dev && node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.8",
+    "dotenv": "^16.0.3",
+    "eris": "^0.17.2",
+    "lunr": "^2.3.9"
+  },
+  "devDependencies": {
+    "pm2": "^5.3.0"
+  }
+}
