@@ -8,8 +8,6 @@ Clockface is a Discord bot that converts everyone's name into clocks, displaying
 
 To use Clockface, you need to deploy it yourself and customize it through a clockface.config.js file. Follow the steps below:
 
-Here's an example of how the clockface.config.js file should look:
-
 1. Clone the Clockface repository to your local machine.
 
 2. Install the required dependencies.
